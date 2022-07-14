@@ -1,5 +1,5 @@
 version: 2.1
-executor:
+executors:
   docker-publisher:
     environment:
       IMAGE_NAME: mukuntharya2022/gosimple
